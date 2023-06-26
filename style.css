@@ -1,18 +1,9 @@
-
-
-style.css
-
-
-
-
-*{
-    m
-    Style.css
+   Style.css
     *{
         margin: 0;
         padding: 0;
     }
-    body{
+    body{font-family: 'Caprasimo', cursive;
         font-family: 'Poppins', sans-serif;
     }
     .cabeçalho {
@@ -37,7 +28,7 @@ style.css
         width: 25%;
     }
     .escola{
-        background-image: linear-gradient( blueviolet, blueviolet);
+        background-image: linear-gradient( rgb(155, 91, 214), rgb(180, 107, 248));
         color:white;
         display: flex;
         justify-content: center;
